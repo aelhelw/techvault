@@ -20,7 +20,7 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 14 | SQL Query Life Cycle | [Arabic](https://youtu.be/SEKF4u6Ovyw) | [English](https://youtu.be/Wr7cd6p8hvQ) |
 | 15 | Join Algorithms | [Arabic](https://youtu.be/oVeo3i5ExaA) | [English](https://youtu.be/Ykvl-2LZpGY) |
 | 16 | SQL Join Types (Inner, Outer, Semi-join, Anti-join) | [Arabic](https://youtu.be/4RmzfVUVxYI) | [English](https://youtu.be/_UJzUo0Kh7M) |
-| 17 | Aggregation Algorithms | [Arabic](https://youtu.be/dHOYDnqJ9HY) | Coming soon! |
+| 17 | Aggregation Algorithms | [Arabic](https://youtu.be/dHOYDnqJ9HY) | [English](https://youtu.be/yKmtT5oa2w8) |
 | 18 | SQL Query Optimizer | [Arabic](https://youtu.be/iAxFGRbAh8s) | Coming soon! |
 | 19 | Understanding EXPLAIN in Postgres | [Arabic](https://youtu.be/12puiczFlz8) | Coming soon! |
 | 20 | Cardinality Estimation 1 (Overview, Selection) | [Arabic](https://youtu.be/PPDDLS5NSyM) | Coming soon! |
