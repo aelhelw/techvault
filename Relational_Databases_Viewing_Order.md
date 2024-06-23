@@ -24,5 +24,5 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 18 | SQL Query Optimizer | [Arabic](https://youtu.be/iAxFGRbAh8s) | Coming soon! |
 | 19 | Understanding EXPLAIN in Postgres | [Arabic](https://youtu.be/12puiczFlz8) | Coming soon! |
 | 20 | Cardinality Estimation 1 (Overview, Selection) | [Arabic](https://youtu.be/PPDDLS5NSyM) | Coming soon! |
-| 21 | Cardinality Estimation 2 (Aggregation, Join) | Coming soon! | Coming soon! |
+| 21 | Cardinality Estimation 2 (Aggregation, Join) | [Arabic](https://youtu.be/QwqNuRSLE3M) | Coming soon! |
 | 22 | Cardinality Estimation 3 (Estimation Errors) | Coming soon! | Coming soon! |
