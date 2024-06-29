@@ -25,4 +25,4 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 19 | Understanding EXPLAIN in Postgres | [Arabic](https://youtu.be/12puiczFlz8) | Coming soon! |
 | 20 | Cardinality Estimation 1 (Overview, Selection) | [Arabic](https://youtu.be/PPDDLS5NSyM) | Coming soon! |
 | 21 | Cardinality Estimation 2 (Aggregation, Join) | [Arabic](https://youtu.be/QwqNuRSLE3M) | Coming soon! |
-| 22 | Cardinality Estimation 3 (Estimation Errors) | Coming soon! | Coming soon! |
+| 22 | Cardinality Estimation 3 (Estimation Errors) | [Arabic](https://youtu.be/ZD0ZarOR438) | Coming soon! |
