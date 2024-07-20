@@ -27,3 +27,4 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 21 | Cardinality Estimation 1 (Overview, Selection) | [Arabic](https://youtu.be/PPDDLS5NSyM) | [English](https://www.youtube.com/watch?v=sbEWSW1bXGY) |
 | 22 | Cardinality Estimation 2 (Aggregation, Join) | [Arabic](https://youtu.be/QwqNuRSLE3M) | Coming soon! |
 | 23 | Cardinality Estimation 3 (Estimation Errors) | [Arabic](https://youtu.be/ZD0ZarOR438) | Coming soon! |
+| 24 | Query Execution | [Arabic](https://youtu.be/Hl0SwV1RFFs) | Coming soon! |
