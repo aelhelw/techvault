@@ -31,3 +31,4 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 25 | Database Views | [Arabic](https://youtu.be/tBqbzeV_EkI) | [English](https://www.youtube.com/watch?v=MSlmvtYLPI8) |
 | 26 | Materialized Views | [Arabic](https://youtu.be/qcJiNoQxHQg) | Coming soon! |
 | 27 | Transactions 1 (ACID Properties) | [Arabic](https://www.youtube.com/watch?v=ziH5Y4tvQJE) | Coming soon! |
+| 28 | Transactions 2 (Schedules) | [Arabic](https://youtu.be/KRZTwTWiUek) | Coming soon! |
