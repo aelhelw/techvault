@@ -31,7 +31,8 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 25 | Database Views | [Arabic](https://youtu.be/tBqbzeV_EkI) | [English](https://www.youtube.com/watch?v=MSlmvtYLPI8) |
 | 26 | Materialized Views | [Arabic](https://youtu.be/qcJiNoQxHQg) | [English](https://youtu.be/8S9p7IO2xz0) |
 | 27 | Transactions 1 (ACID Properties) | [Arabic](https://www.youtube.com/watch?v=ziH5Y4tvQJE) | [English](https://youtu.be/ac6zw6sn-Wo) |
-| 28 | Transactions 2 (Schedules) | [Arabic](https://youtu.be/KRZTwTWiUek) | Coming soon! |
-| 29 | Concurrency Control: Two-Phase Locking (1) | [Arabic](https://youtu.be/s8w-GplT6K4) | Coming soon! |
+| 28 | Transactions 2 (Schedules) | [Arabic](https://youtu.be/KRZTwTWiUek) | [English](https://youtu.be/7cyyffiLAE0) |
+| 29 | Concurrency Control: Two-Phase Locking (1) | [Arabic](https://youtu.be/s8w-GplT6K4) | [English](https://youtu.be/efqAO54qci4) |
 | 30 | Concurrency Control: Two-Phase Locking (2) | [Arabic](https://youtu.be/4Ll7zlC9f4w) | Coming soon! |
 | 31 | Concurrency Control: Timestamp Ordering & Optimistic Concurrency Control | [Arabic](https://youtu.be/f6sl5XFnAr4) | Coming soon! |
+| 32 | Concurrency Control: Multi Version Concurrency Control | [Arabic](https://youtu.be/RDry1RyIw1s) | Coming soon! |
