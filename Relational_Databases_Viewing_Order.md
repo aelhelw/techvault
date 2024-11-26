@@ -36,5 +36,5 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 30 | Concurrency Control: Two-Phase Locking (2) | [Arabic](https://youtu.be/4Ll7zlC9f4w) | [English](https://youtu.be/zqLAFZNh41Q) |
 | 31 | Concurrency Control: Timestamp Ordering & Optimistic Concurrency Control | [Arabic](https://youtu.be/f6sl5XFnAr4) | [English](https://youtu.be/2pLBv43Veec) |
 | 32 | Concurrency Control: Multi Version Concurrency Control | [Arabic](https://youtu.be/RDry1RyIw1s) | [English](https://youtu.be/zGY_stjvFII) |
-| 33 | Data Partitioning | [Arabic](https://youtu.be/XnCnIWMxEhA) | Coming soon! |
+| 33 | Data Partitioning | [Arabic](https://youtu.be/XnCnIWMxEhA) | [English](https://www.youtube.com/watch?v=6emnnIL9Grc) |
 
