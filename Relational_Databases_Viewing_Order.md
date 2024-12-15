@@ -37,6 +37,6 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 31 | Concurrency Control: Timestamp Ordering & Optimistic Concurrency Control | [Arabic](https://youtu.be/f6sl5XFnAr4) | [English](https://youtu.be/2pLBv43Veec) |
 | 32 | Concurrency Control: Multi Version Concurrency Control | [Arabic](https://youtu.be/RDry1RyIw1s) | [English](https://youtu.be/zGY_stjvFII) |
 | 33 | Data Partitioning | [Arabic](https://youtu.be/XnCnIWMxEhA) | [English](https://www.youtube.com/watch?v=6emnnIL9Grc) |
-| 34 | Distributed Databases | [Arabic](https://youtu.be/LujY8mdibGk) | Coming Soon! |
-| 35 | Database Sharding (and Consistent Hashing) | Coming Soon! | Coming Soon! |
+| 34 | Distributed Databases | [Arabic](https://youtu.be/LujY8mdibGk) | [English](https://youtu.be/HRs0d5wqRV4) |
+| 35 | Database Sharding (and Consistent Hashing) | [Arabic](https://youtu.be/-GXQwCIRANA) | Coming Soon! |
 
