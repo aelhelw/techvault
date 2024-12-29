@@ -1,6 +1,9 @@
 # Relational Databases Viewing Order
 
-This list combines videos from both playlists: **Building with Databases** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PzsDAFA3FinTadWe4nVyey4)) and **Relational Database Internals** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PywFpq0VXxGFbStvtskNVkW))
+This list combines videos from the following playlists:
+* **Building with Databases** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67Py5LnCUHp_wp2uzbaBZWSmx), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PzsDAFA3FinTadWe4nVyey4))
+* **Relational Database Internals** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PywFpq0VXxGFbStvtskNVkW))
+* **Advanced Database Topics** ([Arabic](https://www.youtube.com/playlist?list=PLE8kQVoC67PzNdFSsYm-af0j8qeV8l2fW), [English](https://www.youtube.com/playlist?list=PLE8kQVoC67PxKRG4yrdB94VbacOSrO01x))
 
 | # | Title | Arabic | English |
 | --- | --- | --- | --- |
@@ -38,5 +41,5 @@ This list combines videos from both playlists: **Building with Databases** ([Ara
 | 32 | Concurrency Control: Multi Version Concurrency Control | [Arabic](https://youtu.be/RDry1RyIw1s) | [English](https://youtu.be/zGY_stjvFII) |
 | 33 | Data Partitioning | [Arabic](https://youtu.be/XnCnIWMxEhA) | [English](https://www.youtube.com/watch?v=6emnnIL9Grc) |
 | 34 | Distributed Databases | [Arabic](https://youtu.be/LujY8mdibGk) | [English](https://youtu.be/HRs0d5wqRV4) |
-| 35 | Database Sharding (and Consistent Hashing) | [Arabic](https://youtu.be/-GXQwCIRANA) | Coming Soon! |
-
+| 35 | Database Sharding (and Consistent Hashing) | [Arabic](https://youtu.be/-GXQwCIRANA) | [English](https://youtu.be/WO3q6ZUnUhg) |
+| 36 | OLTP vs. OLAP | [Arabic](https://youtu.be/MMrx03rQbGg) | Coming Soon! |
