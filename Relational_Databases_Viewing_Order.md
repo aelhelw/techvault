@@ -42,4 +42,5 @@ This list combines videos from the following playlists:
 | 33 | Data Partitioning | [Arabic](https://youtu.be/XnCnIWMxEhA) | [English](https://www.youtube.com/watch?v=6emnnIL9Grc) |
 | 34 | Distributed Databases | [Arabic](https://youtu.be/LujY8mdibGk) | [English](https://youtu.be/HRs0d5wqRV4) |
 | 35 | Database Sharding (and Consistent Hashing) | [Arabic](https://youtu.be/-GXQwCIRANA) | [English](https://youtu.be/WO3q6ZUnUhg) |
-| 36 | OLTP vs. OLAP | [Arabic](https://youtu.be/MMrx03rQbGg) | Coming Soon! |
+| 36 | OLTP vs. OLAP | [Arabic](https://youtu.be/MMrx03rQbGg) | [English](https://youtu.be/LU8pfUrdXWE) |
+| 37 | Query Performance Tuning & Query Rewrite | [Arabic](https://youtu.be/RtXQug0DuVo) | Coming soon! |
