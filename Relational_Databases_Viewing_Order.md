@@ -43,4 +43,6 @@ This list combines videos from the following playlists:
 | 34 | Distributed Databases | [Arabic](https://youtu.be/LujY8mdibGk) | [English](https://youtu.be/HRs0d5wqRV4) |
 | 35 | Database Sharding (and Consistent Hashing) | [Arabic](https://youtu.be/-GXQwCIRANA) | [English](https://youtu.be/WO3q6ZUnUhg) |
 | 36 | OLTP vs. OLAP | [Arabic](https://youtu.be/MMrx03rQbGg) | [English](https://youtu.be/LU8pfUrdXWE) |
-| 37 | Query Performance Tuning & Query Rewrite | [Arabic](https://youtu.be/RtXQug0DuVo) | Coming soon! |
+| 37 | Query Performance Tuning & Query Rewrite | [Arabic](https://youtu.be/RtXQug0DuVo) | [English](https://youtu.be/z5csGAXNPBs) |
+| 38 | Window Functions (1) | [Arabic](https://youtu.be/eOVmvztKP4o) | Coming soon! |
+| 39 | Window Functions (2) | Coming soon! | Coming soon! |
