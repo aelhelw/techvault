@@ -45,4 +45,5 @@ This list combines videos from the following playlists:
 | 36 | OLTP vs. OLAP | [Arabic](https://youtu.be/MMrx03rQbGg) | [English](https://youtu.be/LU8pfUrdXWE) |
 | 37 | Query Performance Tuning & Query Rewrite | [Arabic](https://youtu.be/RtXQug0DuVo) | [English](https://youtu.be/z5csGAXNPBs) |
 | 38 | Window Functions (1) | [Arabic](https://youtu.be/eOVmvztKP4o) | [English](https://youtu.be/0sfEBlmt-xM) |
-| 39 | Window Functions (2) | [Arabic](https://youtu.be/Y-nYllYu83Q) | Coming soon! |
+| 39 | Window Functions (2) | [Arabic](https://youtu.be/Y-nYllYu83Q) | [English](https://youtu.be/cFs8DRBxIDA) |
+| 40 | SQL Stored Procedures | [Arabic](https://youtu.be/4nBPnPg-als) | Coming soon! |
