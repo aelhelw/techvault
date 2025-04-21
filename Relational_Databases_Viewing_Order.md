@@ -47,4 +47,5 @@ This list combines videos from the following playlists:
 | 38 | Window Functions (1) | [Arabic](https://youtu.be/eOVmvztKP4o) | [English](https://youtu.be/0sfEBlmt-xM) |
 | 39 | Window Functions (2) | [Arabic](https://youtu.be/Y-nYllYu83Q) | [English](https://youtu.be/cFs8DRBxIDA) |
 | 40 | SQL Stored Procedures | [Arabic](https://youtu.be/4nBPnPg-als) | [English](https://youtu.be/GNgisKqsI34) |
-| 41 | Columnar Databases/Column Stores (1) | [Arabic](https://youtu.be/8bDJPLhleeo) | Coming soon! |
+| 41 | Columnar Databases/Column Stores (1) | [Arabic](https://youtu.be/8bDJPLhleeo) | [English](https://youtu.be/IEiyvHES9Xc) |
+| 42 | Columnar Databases/Column Stores (2) | [Arabic](https://youtu.be/4IJ9hK4BuiI) | Coming soon!! |
