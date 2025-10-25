@@ -50,3 +50,4 @@ This list combines videos from the following playlists:
 | 41 | Columnar Databases/Column Stores (1) | [Arabic](https://youtu.be/8bDJPLhleeo) | [English](https://youtu.be/IEiyvHES9Xc) |
 | 42 | Columnar Databases/Column Stores (2) | [Arabic](https://youtu.be/4IJ9hK4BuiI) | [English](https://youtu.be/Jfutfa7eBZk) |
 | 43 | Full Text Search (FTS) | [Arabic](https://youtu.be/UfWDzLus1yY) | [English](https://youtu.be/pMk0nQWOVz8) |
+| 44 | Introduction to Parquet | [Arabic](https://youtu.be/MLmrz_UfJ0Q) | [English](https://youtu.be/GWxzv70tC3M) |
